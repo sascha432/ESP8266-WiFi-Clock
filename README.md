@@ -10,15 +10,27 @@ ESP8266 based 7 segment WiFi clock
 - Temperature sensor to prevent overheating
 - Real time clock
 
-## Schematics
-
-[EasyEDA](https://easyeda.com/sascha23095123423/iot_wifi_7segment)
-
 ## Pictures
+
+First pictures still with a little bit tape here and there:
 
 ![Image 1](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/image1.jpg)
 
 ![Image 2](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/image2.jpg)
+
+![Back](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/back.jpg)
+
+![PCB front](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/pcb1.jpg)
+
+![PCB back](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/pcb2.jpg)
+
+## Schematics
+
+[EasyEDA](https://easyeda.com/sascha23095123423/iot_wifi_7segment)
+
+![Schematics](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/schematics.png)
+
+[Schematics SVG...](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/schematics.svg)
 
 ## WebUI
 
