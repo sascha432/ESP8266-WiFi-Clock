@@ -14,6 +14,12 @@ ESP8266 based 7 segment WiFi clock
 
 [EasyEDA](https://easyeda.com/sascha23095123423/iot_wifi_7segment)
 
+## Pictures
+
+![Image 1](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/image1.jpg)
+
+![Image 2](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/image2.jpg)
+
 ## WebUI
 
 [KFC Firmware @ Github](https://github.com/sascha432/esp8266-kfc-fw)
