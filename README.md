@@ -14,11 +14,17 @@ ESP8266 based 7 segment WiFi clock
 
 First pictures still with a little bit tape here and there:
 
+![Red](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/red.jpg)
+
+![Blue](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/blue.jpg)
+
 ![Image 1](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/image1.jpg)
 
 ![Image 2](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/image2.jpg)
 
 ![Back](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/back.jpg)
+
+![Housing](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/housing.jpg)
 
 ![PCB front](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/pcb1.jpg)
 
@@ -30,7 +36,7 @@ First pictures still with a little bit tape here and there:
 
 ![Schematics](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/schematics.png)
 
-[Schematics SVG...](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/schematics.svg)
+[Schematics SVG...](https://github.com/sascha432/ESP8266-WiFi-Clock/blob/master/images/schematics.svg)
 
 ## WebUI
 
