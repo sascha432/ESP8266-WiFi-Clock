@@ -9,6 +9,7 @@ ESP8266 based 7 segment WiFi clock
 - Input voltage/current sensor
 - Temperature sensor to prevent overheating
 - Real time clock
+- Ambient light sensor
 
 ## Pictures
 
@@ -42,6 +43,8 @@ First pictures still with a little bit tape here and there:
 
 [KFC Firmware @ Github](https://github.com/sascha432/esp8266-kfc-fw)
 
+The firmware has a temperature protection to avoid any damage due to overheating.
+
 ![WebUI](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Clock/master/images/webui.jpg)
 
 ## 3D printable enclosure
@@ -55,3 +58,5 @@ You can find it at [aliexpress](https://www.aliexpress.com/item/4000141696305.ht
 [STL diffuser](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/diffusor.stl)
 
 [STL diffuser round](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/diffusor_round.stl)
+
+[STL back cover](https://raw.githubusercontent.com/sascha432/ESP8266-WiFi-Remote-Control/master/stl/back_cover.stl)
